@@ -179,7 +179,7 @@ session_start();
 							<div class="header-logo">
 								<a href="#" class="logo">
 								<font style="font-style:normal; font-size: 33px;color: aliceblue;font-family: serif">
-                                        Online Shop
+                                        Stop and shop
                                     </font>
 									
 								</a>
@@ -208,7 +208,7 @@ session_start();
 							<div class="header-ctn">
 								<!-- Wishlist -->
 								<div>
-									<a href="https://github.com/puneethreddyhc">
+									<a href="https://github.com/stephenlankas">
 										<i class="fa fa-github"></i>
 										<span>Github</span>
 										
